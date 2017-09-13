@@ -1,12 +1,15 @@
-#Portfolio
+#Portfolio#
 
 #Portfolio site: cell-haze.com
 
 #Dev Work
+
 ###Book Buddies App:
+
 (HTML5, CSS3, jQuery, AngularJS, Bootstrap, SQL, Postgres)
 
 ###Seat Reservation App
+
 (HTML5, CSS3, jQuery)
 
 ###Shopping Cart Lab:

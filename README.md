@@ -1,5 +1,8 @@
 # Portfolio
 
+Greetings. Below is a list of projects I've decided to showcase in one place for ease of access.
+There is no particular order.
+
 ---
 
 ## Portfolio site: cell-haze.com
@@ -8,19 +11,15 @@
 
 ## Dev Work
 
+These works are a mix of labs I've done at Grand Circus Detroit, FreeCodeCamp exercises and things I've just done for fun.
+
 ---
 
 #### Book Buddies App:
 
 (HTML5, CSS3, jQuery, AngularJS, Bootstrap, SQL, Postgres)
 
-#### Seat Reservation App
-
-(HTML5, CSS3, jQuery)
-
-#### Shopping Cart Lab:
-
-(HTML5, CSS3, JS)
+https://github.com/cellhaze/FinalProject
 
 #### Angular To-Do List:
 

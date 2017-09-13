@@ -13,7 +13,7 @@ There is no particular order.
 
 These works are a mix of labs I've done at Grand Circus Detroit, FreeCodeCamp exercises and things I've just done for fun.
 
----
+
 
 #### Book Buddies App:
 
